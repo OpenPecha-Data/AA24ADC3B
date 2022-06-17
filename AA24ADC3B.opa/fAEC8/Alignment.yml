@@ -1,0 +1,26 @@
+segment_sources:
+  I1220A2AB:
+    type: origin_type
+    relation: translation
+    language: en
+  I60DD6906:
+    type: origin_type
+    relation: translation
+    language: fr
+  I4910FF82:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  617fd6d917a54ac4af756e0d1b6a0351:
+    I1220A2AB: a0d6610d8f56497bb35a7d92a88cc582
+    I60DD6906: 244a1c457a5748e5be93113674b996cb
+    I4910FF82: 1b7839fb66304644898002028abb7267
+  cc491b8c8d0a4f1fbc633e5d787593c8:
+    I1220A2AB: d6f98293f39a47bfa8b4b5823dae7e8b
+    I60DD6906: 38be70eb1b0045a5ada29ff9871cf432
+    I4910FF82: ac426cb1b84a48d092562d82fb875db3
+  bf556c5a771041ceabc709d672043890:
+    I1220A2AB: 7eb7941c753042209b9fe52b91894219
+    I60DD6906: dd21499fee704e1d9d2f488f30dc4f6c
+    I4910FF82: 06a927a8591142de9d6fa04d9e768a89

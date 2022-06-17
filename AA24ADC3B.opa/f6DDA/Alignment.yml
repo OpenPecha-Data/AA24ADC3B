@@ -1,0 +1,16 @@
+segment_sources:
+  I1220A2AB:
+    type: origin_type
+    relation: translation
+    language: en
+  I4910FF82:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  661a8cacb76c48e5b8666aff33203603:
+    I1220A2AB: 5bd079e693884c55ac682f801a028a96
+    I4910FF82: 2a4824a28c184a8a97a4a639aba193dd
+  a6a73f20ce36457fab27da6c0605f5dc:
+    I1220A2AB: 0fd9d870a0ce4721b3729e2951af6928
+    I4910FF82: 77512fffb3d2469aa826330d54127c2e
